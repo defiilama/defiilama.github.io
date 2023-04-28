@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>DefiLlama | Official Site</title>
+		<link><![CDATA[https://defiilama.github.io]]></link>
+		<description>DefiLlama is a DeFi TVL aggregator. It is committed to providing accurate data without ads or sponsored content, as well as transparency. Navigate to Home Page Open</description>
+		<language>en</language>
+		<pubDate>Fri, 28 Apr 2023 09:12:22 +0000</pubDate>
+		<generator>MySitemapGenerator (www.mysitemapgenerator.com)</generator>
+
+		<item>
+			<guid isPermaLink="false">2325600659</guid>
+			<title>DefiLlama | Home</title>
+			<link>https://defiilama.github.io/cryptocurrency-prices.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>DefiLlama combines the best decentralized cryptocurrency exchanges with Ethereum blockchain technology for business transactions.</description>
+			<pubDate>Fri, 28 Apr 2023 09:04:55 GMT</pubDate>
+		</item>
+		<item>
+			<guid isPermaLink="false">491953137</guid>
+			<title>DefiLlama | Contacts</title>
+			<link>https://defiilama.github.io/contacts.html</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>DefiLlama combines the best decentralized cryptocurrency exchanges with Ethereum blockchain technology for business transactions.</description>
+			<pubDate>Fri, 28 Apr 2023 09:04:55 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
